@@ -2,6 +2,6 @@
 
 > 타입스크립트로 만드는 캐주얼 게임
 
-> [참고1](https://doodlegames.io/) /[참고2](https://www.crazygames.com/)
+> [프로젝트 플랜](https://github.com/UnlimitedFlyingOriginal/casual-games/discussions/1)
 
 ## List
